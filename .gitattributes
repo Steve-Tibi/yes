@@ -3,4 +3,34 @@
 <html> 
      <head>
 	      <title>this is my first github thingy<title>
-	 <head>
+	 <head><html>
+  <head>
+      <title>html thingy</title>
+      </head>
+     <body bgcolor=#FFFFE0>
+         <i>
+         <p align=center style="font-family:Times New Roman;" size=6 style="color:#4682B4">page title thingy</p>
+         </i>
+		 <p align=center style="font-family:Arial;" size=4 style="color:#7B68EE">
+     <ol type=I>yes:
+	 <br>
+     <li>uh idk
+       <ul>
+           <ol type=a>
+             <li>gartham is cool
+             <li>me when the
+             <li>eoin bangsat
+			    <ul type=circle>
+				<li>freenonsense peeks into bathroom stalls
+				<li>im runnin out of ideas
+				</ul>
+             <li>gartham is way smarter than me
+			 <li>and also has more skill in programming
+			 </ol>
+			 </ul>
+	 <li>really running out of ideas
+	 <li>ok this is the last line
+	 </p>
+     </body>
+
+</html>
